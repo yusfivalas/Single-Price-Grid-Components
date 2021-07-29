@@ -141,6 +141,8 @@ body{
 	color: var(--Grayish-Blue);
 }
 .Section-2 p{
+	display: flex;
+	align-items: center;
 	padding-top: 8px;
 }
 .Section-3 p{
@@ -149,6 +151,7 @@ body{
 
 span{
 	font-size: 35px;
+	padding-right: 10px;
 }
 
 h2, h3, span {
